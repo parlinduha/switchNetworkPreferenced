@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application Network</string>
+    <string-array name="networks">
+        <item>2G</item>
+        <item>3G</item>
+        <item>4G</item>
+        <item>5G</item>
+    </string-array>
+</resources>
